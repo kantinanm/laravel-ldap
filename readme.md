@@ -24,7 +24,7 @@ Use powershell or cmd and type by order, please see below.
   ``` 
 - > migrate database ,please config .env (DB_DATABASE, DB_USERNAME,DB_PASSWORD) before run command below.
     `php artisan migrate`
-- ``php artisan serve`
+- `php artisan serve`
 
 
 # Test URL
