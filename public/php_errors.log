@@ -1,0 +1,4 @@
+[09-Mar-2018 07:34:38 UTC] PHP Parse error:  syntax error, unexpected ')' in D:\Backup\laravel_project\wwwroot\laravel-ldap\app\Http\Controllers\UsersController.php on line 26
+[09-Mar-2018 07:49:35 UTC] PHP Fatal error:  Call to a member function get() on null in D:\Backup\laravel_project\wwwroot\laravel-ldap\app\Http\Controllers\UsersController.php on line 26
+[09-Mar-2018 09:00:14 UTC] PHP Fatal error:  Call to a member function getCommonName() on boolean in D:\Backup\laravel_project\wwwroot\laravel-ldap\app\Http\Controllers\UsersController.php on line 23
+[09-Mar-2018 09:00:59 UTC] PHP Fatal error:  Call to a member function getCommonName() on null in D:\Backup\laravel_project\wwwroot\laravel-ldap\app\Http\Controllers\UsersController.php on line 23
