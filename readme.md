@@ -6,12 +6,12 @@ Use powershell or cmd and type by order, please see below.
 - `cd laravel-ldap`
 - > install package dependency in this project.
     `composer install`
-- > create config.js and modify value.
+- > create .env and modify value.
   `cp .env.example .env` 
   > In windows use command `copy .env.example .env` 
   > generate key in this project.
     `php artisan key:generate`
-  > at config.js file to modify value, 
+  > at .env file to modify value, 
   ```php
     ADLDAP_CONNECTION=default
     ADLDAP_CONTROLLERS=// endpoint server Active Directory 
